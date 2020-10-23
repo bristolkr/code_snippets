@@ -5,6 +5,8 @@
 //The generated NPCs have the necessary components to function within the game space attached, as well as any behavioral scripts. 
 //This all happens at runtime, with no loss of performance.
 //
+//Game demo can be found at: https://www.psychometricstudios.com/games/mindscapes-loneliness
+//
 //Copyright 2019, Kelly Bristol for Psychometric Studios Interactive, LLC
 
 using System.Collections;
